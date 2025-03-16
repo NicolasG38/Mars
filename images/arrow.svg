@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 2400 2000">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#Dégradé_sans_nom_101);
+      }
+
+      .st0, .st1 {
+        stroke: red;
+        stroke-miterlimit: 10;
+      }
+
+      .st1 {
+        fill: url(#Dégradé_sans_nom_10);
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_10" data-name="Dégradé sans nom 10" x1="1200" y1="100" x2="1200" y2="1750" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b35630"/>
+      <stop offset="1" stop-color="#90472f"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_101" data-name="Dégradé sans nom 10" x1="1200.5" y1="-631.59" x2="1200.5" y2="1018.41" xlink:href="#Dégradé_sans_nom_10"/>
+  </defs>
+  <path class="st1" d="M100,100h300c216.67,500,433.33,1000,650,1500h300c216.67-500,433.33-1000,650-1500h300c-266.67,550-533.33,1100-800,1650h-600C633.33,1200,366.67,650,100,100Z"/>
+  <path class="st0" d="M100.5-631.59h300c216.67,500,433.33,1000,650,1500h300c216.67-500,433.33-1000,650-1500h300C2033.83-81.59,1767.17,468.41,1500.5,1018.41h-600C633.83,468.41,367.17-81.59,100.5-631.59Z"/>
+</svg>
